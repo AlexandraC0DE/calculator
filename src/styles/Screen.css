@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+
+.input{
+    height: 80px;
+    border-radius: 50px;
+    margin-bottom: 45px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Orbitron;
+    background-color: #bcc699;
+    color: black;
+    padding: 11px;
+    padding-right: 11px 30px 11px 11px;
+    margin: 1px solid #888;
+    box-shadow: -4px 4px 4px 4px #50505379;
+    user-select: none;
+}
