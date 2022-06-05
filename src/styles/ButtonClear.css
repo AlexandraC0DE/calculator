@@ -7,7 +7,7 @@
     align-items: center;
     font-weight: bold;
     font-size: 28px;
-    background-color: #f18a1d;
+    background-color: #d7410a;
     color: white;
     border-radius: 25px;
     border: 2px solid #50505379;
@@ -16,5 +16,5 @@
     user-select: none;
 }
 .button-clear:hover {
-    background-color: #e5a868;
+    background-color: #f37e54;
 }
