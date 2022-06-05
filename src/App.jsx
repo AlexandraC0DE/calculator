@@ -48,13 +48,13 @@ function App() {
           <ButtonCalculate handleClick={addInput}>7</ButtonCalculate>
           <ButtonCalculate handleClick={addInput}>8</ButtonCalculate>
           <ButtonCalculate handleClick={addInput}>9</ButtonCalculate>
-          <ButtonCalculate handleClick={addInput}>+</ButtonCalculate>
+          <ButtonCalculate handleClick={addInput}>-</ButtonCalculate>
         </div>
         <div className="fila">
           <ButtonCalculate handleClick={addInput}>.</ButtonCalculate>
           <ButtonCalculate handleClick={addInput}>0</ButtonCalculate>
           <ButtonCalculate handleClick={calculateResult}><span>=</span></ButtonCalculate>
-          <ButtonCalculate handleClick={addInput}>-</ButtonCalculate>
+          <ButtonCalculate handleClick={addInput}>+</ButtonCalculate>
         </div>
         <div className="fila">
           <ButtonCalculate handleClick={addInput}>%</ButtonCalculate>
